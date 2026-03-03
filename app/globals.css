@@ -202,6 +202,27 @@ button {
   z-index: 0;
 }
 
+.category-card {
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
+  border-color: var(--border);
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.05) !important;
+  border-color: var(--accent) !important;
+}
+
+.social-icon {
+  color: var(--text-secondary);
+  transition: color 0.2s ease;
+}
+
+.social-icon:hover {
+  color: var(--accent);
+}
+
 .hero-overlay {
   position: absolute;
   top: 0;
@@ -773,9 +794,8 @@ button {
 
 /* ===== FOOTER ===== */
 .site-footer {
-  background: var(--text);
-  color: rgba(255, 255, 255, 0.5);
-  padding: 4rem 2rem 2rem;
+  /* background and border handled inline or via utility classes, using text variables for color */
+  padding: 0 2rem;
 }
 
 .footer-inner {
@@ -787,7 +807,7 @@ button {
 }
 
 .footer-brand .site-logo {
-  color: var(--bg);
+  color: var(--text);
   margin-bottom: 1rem;
   display: inline-block;
 }
@@ -804,7 +824,7 @@ button {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  color: rgba(255, 255, 255, 0.3);
+  color: var(--text);
   margin-bottom: 1.2rem;
 }
 
@@ -818,12 +838,12 @@ button {
 
 .footer-col a {
   font-size: 0.88rem;
-  color: rgba(255, 255, 255, 0.5);
+  color: var(--text-secondary);
   transition: color 0.2s;
 }
 
 .footer-col a:hover {
-  color: var(--bg);
+  color: var(--accent);
 }
 
 .footer-bottom {
