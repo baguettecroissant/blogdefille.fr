@@ -597,6 +597,99 @@ export const articles: Article[] = [
 </ol>
 
 <blockquote>Astuce : les tutoriels YouTube sont vos meilleurs amis. Voir les gestes en vidéo est bien plus efficace que les explications écrites quand on débute.</blockquote>`
+  },
+  {
+    id: 12,
+    slug: 'comment-shabiller-selon-sa-morphologie',
+    title: 'Comment s\'habiller selon sa morphologie : le guide complet',
+    excerpt: 'Découvrez comment s\'habiller selon sa morphologie avec ce guide complet. Astuces, vêtements adaptés et conseils mode pour sublimer votre silhouette.',
+    category: 'mode',
+    image: '/images/articles/morphologie-guide.png',
+    date: '2026-03-05',
+    readTime: '10 min',
+    content: `<p>Vous tenez-vous parfois devant votre dressing, désemparée par le manque d'idées, avec la désagréable impression de n'avoir rien à vous mettre ? Ce sentiment de frustration disparaît presque instantanément lorsqu'on apprend enfin comment <strong>s'habiller selon sa morphologie</strong>. Chaque corps féminin, sans aucune exception, possède son lot de qualités, de courbes et de beauté. Le véritable secret des stylistes n'est pas de changer de corps, mais simplement de connaître et d'adopter les coupes qui flattent le plus votre silhouette unique.</p>
+
+<p>Dans ce guide complet, conçu pour vous accompagner avec bienveillance, nous allons décrypter en détail les 5 grandes silhouettes féminines : en A, en V, en H, en 8 ou en O. À travers des explications claires et des exemples concrets, découvrez nos astuces de professionnelles de la mode pour mettre en valeur vos atouts, dénicher les bons vêtements, éviter les fashion faux-pas et développer une allure élégante qui vous redonnera confiance en vous au quotidien.</p>
+
+<h2>S'habiller selon sa morphologie en A (Pyramide)</h2>
+
+<p>La <strong>morphologie en A</strong>, ou silhouette en pyramide, est la silhouette la plus répandue chez les femmes en France : près de 45% d'entre elles possèdent ce type de corps. Concrètement, vos hanches sont plus larges que vos épaules, et votre taille est souvent bien marquée. L'objectif principal est de rééquilibrer les volumes en attirant habilement le regard vers le haut de votre corps.</p>
+
+<h3>Les pièces maîtresses à privilégier</h3>
+<ul>
+<li><strong>Pour sublimer le buste</strong> : optez pour des cols en V plongeants, des épaulettes discrètes, des volants sur les manches ou des hauts à motifs colorés.</li>
+<li><strong>Pour équilibrer les jambes</strong> : privilégiez les pantalons droits, évasés (flare, bootcut) ou palazzo, de préférence dans des teintes sombres pour affiner les hanches.</li>
+<li><strong>Les robes parfaites</strong> : la robe coupe empire ou l'indémodable robe patineuse camoufleront les rondeurs du bas avec une grande élégance.</li>
+</ul>
+
+<h3>Les vêtements à éviter pour la silhouette en A</h3>
+<p>Fuyez les pantalons slim ultra-moulants qui accentuent brusquement la différence de largeur, ainsi que les jupes boules ou plissées qui rajoutent du volume inutilement. Les hauts de couleurs sombres risqueraient également d'effacer votre buste au profit de vos jambes.</p>
+
+<h2>Comment vêtir une morphologie en V (Pyramide inversée)</h2>
+
+<p>À l'exact opposé, la <strong>morphologie en V</strong> se caractérise par des épaules visiblement plus imposantes que les hanches, conférant souvent une allure très dynamique et athlétique. Le but de l'exercice pour bien <strong>s'habiller selon sa morphologie</strong> en V est de féminiser la silhouette globale et d'apporter du volume stratégique sur le bas du corps en l'espace de 5 minutes devant son miroir.</p>
+
+<h3>Astuces pour mettre en valeur son corps en V</h3>
+<ul>
+<li><strong>Les hauts flatteurs</strong> : cols en V profonds pour casser la carrure, coupes cache-cœurs, hauts fluides et généralement de couleurs sobres.</li>
+<li><strong>Les bas volumineux</strong> : jupes plissées, pantalons carotte, jeans boyfriend ou regular, sans oublier les imprimés floraux ou graphiques qui attirent l'œil.</li>
+</ul>
+
+<p>Il est préférable d'éviter les épaulettes surdimensionnées, les petits tops à très fines bretelles et les vestes de tailleur cintrées et trop rigides qui surligneraient vos épaules carrées de manière disgracieuse.</p>
+
+<h2>Mettre en valeur une morphologie en H ou Rectangulaire</h2>
+
+<p>Pour la morphologie en H (ou rectangle), le constat est simple : vos épaules et vos hanches se situent dans un alignement quasi parfait et votre taille est très peu, voire pas du tout marquée. La mission est donc de créer visuellement l'illusion d'une taille tout en féminisant l'allure.</p>
+
+<h3>Les vêtements de la femme en H</h3>
+<ul>
+<li><strong>Les indispensables</strong> : les robes housses, les vestes cintrées portées ouvertes, les coupes fluides et les encolures asymétriques.</li>
+<li><strong>Les jeans idéaux</strong> : un jean droit taille standard sera votre atout majeur, accompagné d'une tunique légèrement resserrée mais pas serrée.</li>
+</ul>
+
+<p>Faites l'impasse sur les ceintures trop serrées à la taille qui mettraient paradoxalement l'accent sur son absence d'effilement. Les coupes trop évasées sont également à bannir pour ne pas alourdir la silhouette complète.</p>
+
+<h2>Sublimer les morphologies en 8 ou en X (Sablier)</h2>
+
+<p>Souvent considérée comme la silhouette de rêve, la femme en 8 ou en X se distingue par sa taille fine, harmonieusement encadrée par des épaules et des hanches alignées. La seule différence entre les deux réside dans la générosité des courbes : la 8 est plus voluptueuse que la X.</p>
+
+<h3>Les tenues gagnantes pour silhouette en 8</h3>
+<ul>
+<li><strong>Les pièces ajustées</strong> : tout ce qui est cintré vous ira à merveille ! Soulignez toujours votre taille fine avec des ceintures marquant bien la rupture.</li>
+<li><strong>Sélections de robes</strong> : les robes portefeuille ou moulantes sont absolument sublimes sur votre morphologie.</li>
+</ul>
+
+<p>Vous avez de la chance, vous pouvez presque tout vous permettre. Cependant, les vêtements de forme oversize ou les tenues trop amples risquent d'étouffer vos courbes naturelles. De plus, sachez adapter ces astuces mode si votre corps évolue : découvrez <a href="/mode/comment-shabiller-quand-on-est-enceinte">comment s'habiller quand on est enceinte</a> si vous attendez un heureux événement.</p>
+
+<h2>S'habiller selon sa morphologie en O (Ovale)</h2>
+
+<p>Enfin, la femme à la <strong>morphologie en O</strong> présente des courbes voluptueuses, une poitrine souvent généreuse et des épaules naturellement arrondies. L'objectif sera de sublimer sans cacher, d'allonger la silhouette et de mettre le décolleté majestueusement en avant au quotidien.</p>
+
+<h3>Astuces mode pour silhouettes pulpeuses</h3>
+<ul>
+<li><strong>Les meilleures coupes</strong> : robes empire, tuniques droites mi-longues, jeans bootcut confortables et sautoirs en longueur.</li>
+<li><strong>Le choix des couleurs</strong> : un look monochrome (d'une seule teinte de haut en bas) va instantanément lisser et allonger votre silhouette en un clin d'œil.</li>
+</ul>
+
+<p>Laissez de côté les gros imprimés trop voyants, ou les matières rigides, brillantes ou trop épaisses qui alourdiraient le tout. Les micro-motifs raffinés restent un choix chic, sûr et indémodable.</p>
+
+<h2>FAQ : vos questions sur les morphologies mode</h2>
+
+<h3>Comment connaître ma morphologie avec précision ?</h3>
+<p>L'exercice est rapide : placez-vous debout et bien droite face à un grand miroir en sous-vêtements. Observez l'alignement de vos épaules par rapport à la largeur de vos hanches, puis évaluez si le creux de votre taille est subtil, marqué ou invisible. Ce test super simple dure 2 minutes et révèle votre type physique dominant sans faille.</p>
+
+<h3>Suis-je obligée de renoncer aux tendances actuelles ?</h3>
+<p>Absolument pas ! Les règles vestimentaires présentées sont des guides bienveillants, non des interdictions strictes. Si une tendance coup de cœur ne semble pas adaptée à votre forme, adoptez-la par petites touches accessoires ou bien adaptez les volumes avec une pièce neutre pour équilibrer le résultat final.</p>
+
+<h3>Les règles sont-elles les mêmes si je suis de petite taille ?</h3>
+<p>La typologie (A, V, H, 8, O) concerne exclusivement la structure et la répartition des volumes géométriques de la personne. La hauteur et la taille modifieront simplement la longueur des vêtements à sélectionner, par exemple en favorisant les jupes courtes au-dessus du genou, mais les principes de votre vraie morphologie resteront 100% justes.</p>
+
+<h3>Que faire lorsque je me situe entre deux types de silhouette ?</h3>
+<p>C'est une situation qui concerne presque 40% des jeunes femmes. Si vous oscillez entre la femme en A et la 8 par exemple, nous vous recommandons de piocher allègrement parmi les conseils des deux catégories et d'effectuer des essayages ciblés pour déterminer ce qui flatte le mieux votre corps avec exactitude.</p>
+
+<h2>Conclusion : le style passe par la confiance</h2>
+
+<p>En résumé, prendre le temps de bien <strong>s'habiller selon sa morphologie</strong> est une démarche passionnante qui révolutionne la manière d'acheter et met fin aux vêtements qui dorment pendant des années au fond du placard. Le vêtement adapté doit devenir une seconde peau qui glorifie l'existant sans le dénaturer. La seule véritable faute de goût est de s'entêter dans des coupes inconfortables qui écrasent vos qualités. Bien entendu, chaque tenue gagne à être renforcée par un accessoire bien pensé. Si vous souhaitez d'ailleurs ajouter une touche chic et sport inattendue à votre allure parfaitement maîtrisée, nous vous invitons grandement à parcourir notre guide détaillé sur <a href="/mode/comment-bien-choisir-une-casquette">comment bien choisir une casquette</a>.</p>`
   }
 ];
 
