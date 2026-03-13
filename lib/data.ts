@@ -1072,3 +1072,22 @@ export function getFeaturedArticle(): Article | undefined {
 export function getLatestArticles(count: number = 6): Article[] {
   return [...articles].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()).slice(0, count);
 }
+
+export function getPaginatedArticles(page: number, limit: number = 15): { articles: Article[], totalPages: number, totalArticles: number } {
+  const sortedArticles = [...articles].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  const totalArticles = sortedArticles.length;
+  const totalPages = Math.ceil(totalArticles / limit);
+  
+  // S'assurer que la page est dans les limites
+  const safePage = Math.max(1, Math.min(page, totalPages || 1));
+  const startIndex = (safePage - 1) * limit;
+  const endIndex = startIndex + limit;
+  
+  const paginatedArticles = sortedArticles.slice(startIndex, endIndex);
+
+  return {
+    articles: paginatedArticles,
+    totalPages,
+    totalArticles
+  };
+}

@@ -95,7 +95,7 @@ export default function Home() {
       <section className="section" style={{ paddingTop: '4rem' }}>
         <div className="section-header">
           <h2>Derniers publications</h2>
-          <Link href="/categorie/mode" className="section-header-link">Tout voir →</Link>
+          <Link href="/blog" className="section-header-link">Tout voir →</Link>
         </div>
         <div className="bento-grid">
           {latest.map((article, index) => {

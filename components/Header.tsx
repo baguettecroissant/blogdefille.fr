@@ -11,6 +11,9 @@ export default function Header() {
             <div className="header-inner">
                 <Link href="/" className="site-logo">Blog de fille</Link>
                 <nav className={`main-nav ${menuOpen ? 'open' : ''}`}>
+                    <Link href="/blog" onClick={() => setMenuOpen(false)}>
+                        Le Blog
+                    </Link>
                     {categories.map(cat => (
                         <Link key={cat.slug} href={`/categorie/${cat.slug}`} onClick={() => setMenuOpen(false)}>
                             {cat.name}
