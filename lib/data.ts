@@ -927,6 +927,133 @@ export const articles: Article[] = [
 <h2>Conclusion : Libérez votre créativité !</h2>
 <p>Voilà mes pépites ! Vous avez maintenant toutes les bases pour <strong>assortir couleurs vêtements</strong> avec l'assurance d'une pro. Rappelez-vous que la mode est avant tout un jeu. Si vous vous sentez rayonnante dans un mélange qui ne respecte pas strictement le <strong>cercle chromatique mode</strong>, portez-le ! Votre confiance est l'accessoire le plus coloré de votre garde-robe.</p>
 <p>Commencez doucement par des petits camaïeux, apprivoisez votre <strong>colorimétrie vêtements</strong> et bientôt, vous associerez des teintes improbables avec une facilité déconcertante. N'hésitez pas à jeter un œil à mon article sur <a href="/mode/les-10-basiques-mode-que-toute-femme-devrait-avoir-dans-son-dressing">les 10 basiques mode</a> pour construire votre base parfaite avant de passer à l'attaque des couleurs !</p>`
+  },
+  {
+    id: 15,
+    slug: 'capsule-wardrobe-femme-dressing-minimaliste',
+    title: 'Capsule wardrobe : comment créer un dressing minimaliste efficace',
+    excerpt: 'Envie d\'un dressing minimaliste ? Découvrez comment créer une capsule wardrobe femme efficace. Fini le casse-tête matinal, optez pour un style intemporel !',
+    category: 'mode',
+    image: '/images/articles/capsule-wardrobe.jpg',
+    date: '2026-03-13',
+    readTime: '15 min',
+    content: `<p>Vous est-il déjà arrivé de contempler votre penderie débordante de vêtements, tout en ressentant cette frustration bien connue : "Je n'ai absolument rien à me mettre" ? Ce paradoxe moderne touche la majorité d'entre nous. Chaque matin, le choix de la tenue devient une véritable source de stress. C'est ici qu'intervient la solution miracle pour retrouver la paix d'esprit et un style toujours impeccable : la <strong>capsule wardrobe femme</strong>. Ce concept fascinant, bien loin d'être une simple tendance passagère, est une méthode d'organisation redoutablement efficace. En adoptant ce principe, vous allez radicalement transformer votre façon de consommer la mode, en privilégiant la qualité sur la quantité. Dans cet article ultra-complet, nous allons vous guider pas à pas pour accomplir cette transition vers un <strong>dressing minimaliste</strong>. De la sélection de vos <strong>vêtements essentiels</strong> aux astuces pour ne jamais vous lasser, préparez-vous à dire adieu aux achats impulsifs et bonjour à une garde-robe qui vous ressemble vraiment, à 100%. Prête à simplifier votre vie avec style ?</p>
+
+<h2>Qu'est-ce qu'une capsule wardrobe femme exactement ?</h2>
+
+<p>Le terme peut sembler technique, mais l'idée derrière la <strong>capsule wardrobe femme</strong> (ou <strong>garde-robe capsule</strong> en français) est d'une simplicité enfantine. Il s'agit de réduire sa collection de vêtements à un nombre limité de pièces hautement interchangeables, qui s'accordent toutes parfaitement entre elles.</p>
+
+<h3>Les origines du dressing minimaliste</h3>
+<p>Né dans les années 70 grâce à la londonienne Susie Faux, propriétaire d'une boutique indépendante, le concept a été popularisé plus tard par la créatrice américaine Donna Karan avec sa fameuse collection des "7 pièces faciles". L'objectif premier était de permettre aux femmes actives de s'habiller avec élégance en quelques minutes, sans accumuler des centaines d'articles inutiles. Aujourd'hui, cette approche résonne particulièrement avec notre besoin croissant de consommer mieux et d'adopter une <strong>mode éthique</strong>.</p>
+
+<h3>Combien de pièces pour une garde-robe capsule ?</h3>
+<p>La règle générale, souvent portée par des influenceuses minimalistes comme Caroline Rector (du blog Unfancy), suggère un total d'environ <strong>37 pièces</strong> par saison. Ce chiffre précis comprend vos hauts, bas, robes, manteaux et chaussures. Cependant, gardez à l'esprit que ce nombre n'est pas une loi absolue. Si vous avez besoin de 45 pièces pour vous sentir bien, c'est parfaitement viable. L'essentiel n'est pas le chiffre, mais l'intention : chaque pièce doit être portée, aimée, et s'intégrer harmonieusement avec le reste.</p>
+
+<h2>Les avantages indéniables de passer au minimalisme vestimentaire</h2>
+
+<p>Si autant de femmes décident de sauter le pas et de créer leur propre <strong>capsule wardrobe femme</strong>, c'est parce que les bénéfices sont mesurables et immédiats, tant sur le plan personnel que financier.</p>
+
+<h3>Un gain de temps et d'énergie quotidien</h3>
+<ul>
+  <li><strong>Décisions réduites</strong> : Le matin, vous ne perdez plus 20 minutes à essayer 5 tenues différentes qui finissent en tas sur le lit.</li>
+  <li><strong>Associations évidentes</strong> : Puisque tout a été pensé pour fonctionner ensemble (nous y reviendrons avec la règle des couleurs), vous gagnez une sérénité incroyable. Vous attrapez un pantalon et un haut presque les yeux fermés.</li>
+</ul>
+
+<h3>Des économies substantielles et une démarche écologique</h3>
+<p>En moyenne, une femme ne porte que <strong>20% de sa garde-robe 80% du temps</strong>. Imaginez l'argent gaspillé dans les 80% restants ! En adoptant un <strong>dressing minimaliste</strong>, vous arrêtez les achats impulsifs de vêtements dits "jetables" (fast-fashion). Cet argent économisé (souvent plusieurs centaines d'euros par an) peut être investi dans des matériaux nobles (soie, laine mérinos, cachemire) qui dureront 10 ans au lieu de 10 lavages. De plus, c'est un geste fort pour la planète, réduisant l'immense pollution liée à l'industrie du textile.</p>
+
+<h3>Un style assumé et une meilleure confiance en soi</h3>
+<p>Porter uniquement des vêtements qui vous vont parfaitement, qui mettent en valeur votre corps (n'hésitez pas à relire notre article sur <a href="/mode/comment-shabiller-selon-sa-morphologie">comment s'habiller selon sa morphologie</a>), garantit que vous vous sentez toujours au sommet de votre beauté. Fini le pull "confortable mais moche" ou le jean "qui serre un peu mais que je garde au cas où". Vous ne conservez que la crème de la crème.</p>
+
+<h2>Étape 1 : Le grand tri, fondation de votre nouvelle garde-robe</h2>
+
+<p>Pour construire, il faut d'abord déblayer. C'est l'étape qui fait le plus peur, mais elle est totalement indispensable et profondément libératrice. Prévoyez une demi-journée, mettez la musique à fond, et sortez <strong>absolument tout</strong> de vos placards pour le mettre sur votre lit.</p>
+
+<h3>La règle cruelle mais efficace des 4 piles</h3>
+<p>Prenez chaque vêtement un par un, et classez-les sans pitié dans l'une de ces quatre catégories :</p>
+<ol>
+  <li><strong>Je garde (Le noyau dur)</strong> : Vous portez cette pièce régulièrement, elle vous va à merveille, elle est en bon état et vous vous sentez belle dedans.</li>
+  <li><strong>Je donne / Je vends</strong> : Le vêtement est en excellent état, mais il ne vous correspond plus. Erreur d'achat, mauvaise taille, ou couleur qui ne vous flatte pas. Revendez-les sur Vinted ou donnez-les à des associations caritatives.</li>
+  <li><strong>Je jette / Je recycle</strong> : C'est troué, bouloché au point de ne plus être sauvable, déformé. Direction les bornes de tri textile.</li>
+  <li><strong>Peut-être (La boîte de quarantaine)</strong> : Vous hésitez ? Placez la pièce dans une boîte en carton fermée. Si dans 3 mois vous n'avez pas eu besoin de l'ouvrir pour récupérer ledit vêtement, vous le donnez sans même regarder à l'intérieur.</li>
+</ol>
+
+<blockquote>Astuce de pro : Soyez brutale dans votre tri. Si la réponse n'est pas un grand "OUI", alors c'est un "NON". Votre future <strong>capsule wardrobe femme</strong> ne tolère pas la médiocrité stylistique.</blockquote>
+
+<h2>Étape 2 : Définir votre palette de couleurs et votre style de vie</h2>
+
+<p>Maintenant que vous n'avez conservé que l'essentiel, il faut structurer vos futurs achats. Une <strong>garde-robe capsule</strong> ne fonctionne que si les couleurs s'entendent bien. C'est la garantie de pouvoir marier les hauts et les bas à l'infini.</p>
+
+<h3>Choisir ses couleurs de base (neutres)</h3>
+<p>Identifiez 2 ou 3 couleurs neutres qui seront les fondations de vos manteaux, pantalons, chaussures et sacs à main. Généralement, on choisit parmi : <strong>le noir, le bleu marine, le beige/camel, le gris, ou le blanc</strong>. Ces teintes s'associent avec tout. Si vous êtes perdue, je vous conseille vivement de lire notre indispensable <a href="/mode/comment-assortir-ses-couleurs-de-vetements-le-guide-chromatique">guide chromatique pour assortir ses vêtements</a>.</p>
+
+<h3>Ajouter ses couleurs d'accent</h3>
+<p>Choisissez 2 à 4 couleurs d'accent, plus vives ou plus claires, qui viendront égayer vos hauts, écharpes ou petits accessoires. Que ce soit du bordeaux, du vert émeraude, du rose poudré ou du jaune moutarde, assurez-vous que ces couleurs d'accent matchent parfaitement avec vos couleurs de base.</p>
+
+<h3>Analyser son quotidien</h3>
+<p>Votre garde-robe doit servir votre vraie vie, pas votre vie fantasmée. Si vous travaillez de la maison à 80% du temps et que vous sortez au parc avec vos enfants, n'investissez pas dans 5 tailleurs-pantalons. Un dressing réussi est un dressing pragmatique. Vos <strong>vêtements indispensables</strong> doivent correspondre à 90% de vos activités réelles.</p>
+
+<h2>Étape 3 : La liste des vêtements essentiels pour une garde-robe capsule parfaite</h2>
+
+<p>Bien que chaque femme soit unique, certaines fondations vestimentaires s'appliquent à la majorité des styles. Voici une proposition de structure pour construire concrètement votre <strong>capsule wardrobe femme</strong> (en omettant les sous-vêtements, tenues de sport et pyjamas qui ne comptent pas dans les 37 pièces).</p>
+
+<h3>Les Hauts (environ 12 à 15 pièces)</h3>
+<ul>
+  <li><strong>Les basiques intemporels</strong> : 3 ou 4 t-shirts unis (blanc, gris, noir) en pur coton, et 2 débardeurs fluides pour l'été ou comme sous-couches.</li>
+  <li><strong>Les mailles chaleureuses</strong> : 2 gros pulls d'hiver (en laine ou col roulé) et 2 cardigans fins à glisser partout.</li>
+  <li><strong>Les chemises et tops élégants</strong> : L'incontournable chemise blanche (de préférence oversize ou bien cintrée selon votre morpho), une chemise en jean ou chambray, et 2 jolies blouses pour les sorties ou le bureau.</li>
+</ul>
+
+<h3>Les Bas (environ 7 à 9 pièces)</h3>
+<ul>
+  <li><strong>Le denim roi</strong> : 2 jeans parfaitement coupés. Un bleu brut classique et un bleu délavé ou noir, coupe droite ou mom selon votre préférence.</li>
+  <li><strong>L'allure professionnelle/chic</strong> : 1 pantalon tailleur (noir ou marine), et 1 pantalon fluide confortable.</li>
+  <li><strong>Pour la féminité</strong> : 1 jupe midi ou plissée et 1 jupe courte (en cuir, jean ou velours selon la saison), ainsi qu'un short élégant pour les journées chaudes.</li>
+</ul>
+
+<h3>Les Manteaux et Vestes (environ 4 à 5 pièces)</h3>
+<ul>
+  <li>1 beau manteau d'hiver long en laine mélangée (avec au moins 60% de laine).</li>
+  <li>1 trench-coat classique beige pour la mi-saison.</li>
+  <li>1 veste blazer habillée, qui upgrade instantanément n'importe quel t-shirt blanc.</li>
+  <li>1 veste décontractée : veste en jean robuste ou perfecto en cuir (vrai ou simili de très haute qualité).</li>
+</ul>
+
+<h3>Les Robes (environ 3 à 4 pièces)</h3>
+<ul>
+  <li>La célèbre Petite Robe Noire (LBD), salvatrice pour n'importe quelle occasion impromptue.</li>
+  <li>1 robe de jour fluide (fleurie ou à pois) pour le printemps/été.</li>
+  <li>1 robe pull douce pour cocooner avec élégance en plein hiver.</li>
+</ul>
+
+<h3>Les Chaussures (environ 6 à 8 paires)</h3>
+<ul>
+  <li>1 paire de baskets blanches urbaines et confortables.</li>
+  <li>1 paire de bottines (Chelsea ou à petits talons) pour l'hiver.</li>
+  <li>1 paire de sandales élégantes pour l'été.</li>
+  <li>1 paire de mocassins ou derbies pour la mi-saison et le travail.</li>
+  <li>1 paire d'escarpins (optionnels si vous ne portez jamais de talons) pour habiller rapidement une tenue.</li>
+</ul>
+<p>Pour approfondir le sujet des pièces phares inusables, foncez lire notre sélection experte des <a href="/mode/les-10-basiques-mode-que-toute-femme-devrait-avoir-dans-son-dressing">10 basiques mode que toute femme devrait avoir</a>, qui viendra parfaitement compléter vos recherches !</p>
+
+<h2>FAQ : Tout savoir sur le dressing minimaliste</h2>
+
+<h3>Faut-il construire une capsule wardrobe différente pour chaque saison ?</h3>
+<p>L'idéal est de construire soit deux capsules annuelles (Printemps/Été et Automne/Hiver), soit quatre mini-capsules (une par saison stricte) si vous habitez dans une région où les différences de températures sont extrêmes. Personnellement, je conseille la méthode des "deux demi-années". De nombreuses pièces, comme vos jeans, la chemise blanche ou le t-shirt noir, resteront dans votre armoire toute l'année, assurant la continuité de votre style.</p>
+
+<h3>Est-ce que je ne vais pas vite m'ennuyer avec si peu de vêtements ?</h3>
+<p>Bizarrement, c'est l'inverse qui se produit ! Avoir de la contrainte stimule massivement la créativité. Vous allez découvrir des combinaisons que vous n'auriez jamais osées auparavant. De plus, avec un <strong>dressing minimaliste</strong>, ce sont les petits accessoires qui font tout le travail. Une même tenue (jeans + t-shirt blanc + blazer) sera totalement différente si elle est portée avec des baskets et un tote-bag, ou avec des escarpins rouges, du rouge à lèvres carmin et une pochette en cuir. Les bijoux, foulards et ceintures sont vos meilleurs alliés anti-ennui.</p>
+
+<h3>Quel budget faut-il prévoir pour entamer cette démarche ?</h3>
+<p>Le paradoxe de la <strong>mode éthique</strong> et du minimalisme, c'est que ça ne coûte rien de commencer (puisqu'on enlève), mais il faut parfois investir intelligemment par la suite. Un beau manteau intemporel coûte entre 150€ et 300€, mais durera 8 ans. La création de votre capsule doit se faire progressivement. N'achetez pas tout d'un coup. Identifiez les "trous" dans votre garde-robe après votre tri, et achetez une belle pièce par mois en privilégiant les belles matières (lin, soie, laine, coton bio). Vinted et les friperies sont également de formidables ressources pour trouver du premium à petit prix.</p>
+
+<h3>Les vêtements à motifs sont-ils interdits dans une garde-robe minimaliste ?</h3>
+<p>Absolument pas ! Si le terme <strong>vêtements essentiels</strong> évoque souvent des t-shirts gris tristes pour certains, c'est une erreur commune. Si votre cœur vibre pour de la marinière rayée, des pois ou du motif léopard, intégrez-les ! L'astuce est de faire en sorte que votre motif puisse s'accorder avec la majorité de vos bas unis. Une jupe à fleurs d'été est très "capsule-compatible" si ses couleurs incluent un rappel de vos t-shirts unis de base.</p>
+
+<h2>Conclusion : Prête à embrasser le minimalisme élégant ?</h2>
+
+<p>Créer sa propre <strong>capsule wardrobe femme</strong> n'est pas une punition ni un enfermement stylistique ; c'est véritablement une révolution émancipatrice. En reprenant le contrôle de votre consommation de mode, vous mettez fin à une charge mentale inutile et insidieuse qui polluait vos matins. Un <strong>dressing minimaliste</strong>, soigneusement curaté avec des <strong>vêtements essentiels</strong> de qualité, reflète une femme sûre d'elle, qui se connaît parfaitement et qui refuse les diktats de la surconsommation éphémère. Lancez-vous ce week-end, triez, épurez, et observez comment ce changement d'organisation matérielle apaisera miraculeusement votre esprit. Dites-nous en commentaire : quelle est LA pièce maîtresse dont vous ne vous séparerez jamais sous aucun prétexte ?</p>
+`
   }
 ];
 
