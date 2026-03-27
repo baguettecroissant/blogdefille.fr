@@ -1205,6 +1205,139 @@ export const articles: Article[] = [
 <h2>Conclusion</h2>
 
 <p>Le <strong>double nettoyage visage</strong> est bien plus qu'une tendance beauté passagère : c'est une véritable <strong>révolution dans la routine skincare</strong> qui transforme la qualité de votre peau en quelques semaines. En combinant un nettoyant huileux pour dissoudre le gras et un nettoyant aqueux pour éliminer les dernières impuretés, vous offrez à votre visage le nettoyage qu'il mérite vraiment. Choisissez des produits adaptés à votre type de peau, respectez les deux étapes chaque soir, et observez votre teint devenir plus lumineux, vos pores se resserrer et vos soins devenir enfin pleinement efficaces. Pour aller plus loin dans votre routine beauté naturelle, découvrez notre guide complet pour <a href="/comment-concevoir-un-masque-de-beaute-soi-meme">réaliser vos propres masques de beauté maison</a>.</p>`
+  },
+  {
+    id: 17,
+    slug: 'comment-shabiller-pour-un-entretien-dembauche-femme',
+    title: 'Comment s\'habiller pour un entretien d\'embauche femme',
+    excerpt: 'Découvrez nos conseils pour choisir la tenue entretien embauche femme parfaite : dress code, erreurs à éviter, looks par secteur et astuces pour faire bonne impression dès la première seconde.',
+    category: 'mode',
+    image: '/images/articles/tenue-entretien-embauche.png',
+    date: '2026-03-27',
+    readTime: '10 min',
+    content: `<p>Vous avez décroché un <strong>entretien d'embauche</strong> et une question cruciale s'impose immédiatement : « Qu'est-ce que je vais bien pouvoir mettre ? » Rassurez-vous, cette angoisse vestimentaire est universelle. Pourtant, votre <strong>tenue entretien embauche femme</strong> représente bien plus qu'un simple emballage : selon une étude du cabinet Robert Half, <strong>55% des recruteurs</strong> avouent que l'apparence vestimentaire influence leur première impression dans les 7 premières secondes de la rencontre. Autant dire que vos vêtements parlent avant vous.</p>
+
+<p>Mais pas de panique ! Que vous postuliez dans la finance, le marketing, la tech ou le secteur créatif, il existe des <strong>règles simples et efficaces</strong> pour composer un look professionnel qui vous ressemble, qui inspire confiance et qui vous permet de rester concentrée sur l'essentiel : décrocher le poste. Dans ce guide complet, je vous livre toutes mes astuces de styliste pour <strong>choisir la tenue idéale</strong> selon le secteur visé, éviter les fashion faux-pas et booster votre confiance grâce à un style impeccable.</p>
+
+<h2>Tenue entretien embauche femme : les fondamentaux du dress code professionnel</h2>
+
+<p>Avant de fouiller frénétiquement dans votre dressing, prenons un instant pour comprendre les <strong>codes vestimentaires professionnels</strong>. Ils se déclinent en trois grandes catégories :</p>
+
+<h3>Le dress code formel (corporate)</h3>
+<p>Requis dans la <strong>finance, le droit, le conseil et les institutions</strong>, ce dress code exige une tenue très structurée. On parle ici de tailleur-pantalon ou tailleur-jupe, de chemise ajustée et d'escarpins classiques. Les couleurs restent sobres : <strong>bleu marine, noir, gris anthracite, blanc cassé</strong>.</p>
+
+<h3>Le dress code business casual</h3>
+<p>C'est le code vestimentaire le plus répandu en entreprise aujourd'hui, adopté par <strong>environ 65% des entreprises françaises</strong>. Il autorise davantage de liberté : un blazer bien coupé associé à un pantalon de tailleur et un top élégant suffit amplement.</p>
+
+<h3>Le dress code smart casual (créatif)</h3>
+<p>Dans les <strong>startups, agences de communication, métiers artistiques</strong> et secteurs du numérique, les codes s'assouplissent nettement. Vous pouvez oser davantage de couleurs, de matières et d'accessoires — tout en restant professionnelle.</p>
+
+<ul>
+<li><strong>Règle d'or universelle</strong> : en cas de doute, habillez-vous toujours un cran au-dessus du dress code habituel de l'entreprise</li>
+<li><strong>Recherchez l'entreprise</strong> : consultez son site web, ses réseaux sociaux et les photos de l'équipe pour identifier le style ambiant</li>
+<li><strong>Privilégiez le confort</strong> : une tenue dans laquelle vous ne vous sentez pas à l'aise se verra immédiatement sur votre langage corporel</li>
+</ul>
+
+<h2>Les pièces essentielles pour un look entretien réussi</h2>
+
+<p>Construire la <strong>tenue parfaite pour un entretien d'embauche</strong> revient à assembler un puzzle dont chaque pièce a son importance. Voici les incontournables de votre garde-robe « candidature » :</p>
+
+<h3>Le blazer structuré : votre arme secrète</h3>
+<p>Le blazer est sans conteste <strong>la pièce maîtresse d'une tenue d'entretien</strong>. Il structure instantanément votre silhouette, apporte du sérieux et transforme n'importe quel haut basique en look professionnel. Optez pour une coupe ajustée (ni trop serrée ni trop large) qui tombe pile au niveau des hanches. Budget moyen : entre <strong>50€ et 150€</strong> pour un modèle de qualité.</p>
+
+<h3>Le pantalon de tailleur</h3>
+<p>Préférez une coupe <strong>droite ou légèrement évasée</strong> en tissu fluide qui ne froisse pas. Le pantalon 7/8e est une option moderne et flatteuse. La couleur la plus polyvalente ? Le <strong>bleu marine</strong>, qui se marie avec tout et inspire confiance.</p>
+
+<h3>La chemise ou le top épuré</h3>
+<p>Une <strong>chemise blanche bien coupée</strong> reste la valeur sûre absolue. Mais un top en soie ou en crêpe dans une couleur douce — blush, bleu ciel, ivoire — fonctionne tout aussi bien. L'essentiel : un décolleté raisonnable et des manches au minimum au coude.</p>
+
+<h3>La robe professionnelle</h3>
+<p>La robe fourreau ou la robe droite longueur genou constitue une alternative élégante au duo blazer-pantalon. Choisissez un modèle à <strong>manches 3/4 ou longues</strong>, dans un coloris uni et sobre. Associée à un cardigan structuré, c'est une option à la fois féminine et crédible.</p>
+
+<h3>Les chaussures : le détail qui fait tout</h3>
+<ul>
+<li><strong>Escarpins à talon moyen (5-7 cm)</strong> : le choix le plus classique et professionnel</li>
+<li><strong>Mocassins en cuir</strong> : parfaits pour le business casual, élégants et ultra-confortables</li>
+<li><strong>Bottines Chelsea</strong> : acceptables dans les secteurs décontractés, à condition qu'elles soient en cuir lisse</li>
+<li><strong>À éviter absolument</strong> : sandales ouvertes, baskets (même blanches), talons de plus de 9 cm</li>
+</ul>
+
+<h2>Quelle tenue d'entretien choisir selon son secteur d'activité ?</h2>
+
+<p>Le meilleur <strong>look pour un entretien</strong> varie considérablement d'un secteur à l'autre. Voici un guide concret par domaine :</p>
+
+<h3>Finance, banque et assurance</h3>
+<p>Optez pour un <strong>tailleur-pantalon bleu marine ou gris</strong> accompagné d'une chemise blanche impeccable. Les bijoux restent discrets : montre classique, boucles d'oreilles perles. Les escarpins fermés en cuir noir sont de rigueur. Résultat attendu : sérieux et fiabilité.</p>
+
+<h3>Marketing, communication et digital</h3>
+<p>Vous pouvez vous permettre un <strong>blazer coloré</strong> (camel, bordeaux, vert sapin) sur un jean brut foncé et un top en soie. Un sac structuré et une paire de mocassins complètent parfaitement le look. Le message : créativité maîtrisée et professionnalisme.</p>
+
+<h3>Tech et startups</h3>
+<p>Le dress code est plus décontracté, mais vous devez tout de même montrer que vous avez fait un effort. Un <strong>pantalon chino bien coupé</strong>, un pull en maille fine et des bottines propres font l'affaire. Astuce : ajoutez un blazer déstructuré pour marquer la différence entre le quotidien et l'entretien.</p>
+
+<h3>Santé, éducation et administration</h3>
+<p>Restez classique sans être austère. Une <strong>jupe crayon au genou</strong> ou un pantalon de tailleur associé à un chemisier pastel sera parfait. Privilégiez les matières naturelles respirantes, car ces entretiens sont souvent longs.</p>
+
+<h3>Mode, luxe et arts</h3>
+<p>C'est le seul secteur où votre tenue fait presque office de <strong>portfolio visuel</strong>. Montrez votre sens du style avec une pièce signature — un accessoire original, une coupe audacieuse, un tissu noble — tout en restant soignée. Le secret : <strong>une pièce forte + le reste neutre</strong>.</p>
+
+<h2>Les erreurs vestimentaires à éviter absolument en entretien</h2>
+
+<p>Certaines erreurs de style peuvent saboter votre candidature avant même que vous n'ayez ouvert la bouche. Voici les <strong>pièges classiques de la tenue d'entretien</strong> à éviter :</p>
+
+<ol>
+<li><strong>Le total look noir</strong> : trop austère et impersonnel, il peut donner une impression froide. Brisez-le avec un top de couleur ou un accessoire vibrant</li>
+<li><strong>Les vêtements trop ajustés ou trop courts</strong> : jupe au-dessus du genou, top moulant, décolleté plongeant... Le recruteur doit se concentrer sur vos compétences, pas sur votre garde-robe</li>
+<li><strong>Les vêtements neufs jamais portés</strong> : portez votre tenue au moins une fois avant le jour J pour vérifier le confort et repérer d'éventuels défauts</li>
+<li><strong>Le parfum trop prononcé</strong> : une touche subtile suffit. Un parfum capiteux dans un bureau fermé peut indisposer votre interlocuteur</li>
+<li><strong>Les imprimés trop voyants</strong> : léopard, fleurs tropicales, motifs géométriques agressifs... Gardez-les pour le week-end</li>
+<li><strong>Le sac à main surchargé</strong> : optez pour un tote bag structuré ou un sac cartable qui permet de sortir proprement votre CV et un carnet</li>
+<li><strong>Les ongles abîmés</strong> : des ongles soignés (même sans vernis) montrent votre attention aux détails. Préférez un vernis nude ou une french manucure discrète</li>
+</ol>
+
+<p>D'ailleurs, pour maîtriser parfaitement l'art d'harmoniser vos couleurs, je vous recommande notre guide complet sur <a href="/comment-assortir-ses-couleurs-de-vetements-le-guide-chromatique">comment assortir les couleurs de ses vêtements</a>.</p>
+
+<h2>Les accessoires et détails qui font la différence</h2>
+
+<p>Une <strong>tenue entretien embauche femme</strong> réussie se joue aussi dans les détails. Ce sont eux qui séparent un look « correct » d'un look « impressionnant » :</p>
+
+<h3>Les bijoux : sobriété et élégance</h3>
+<ul>
+<li><strong>Montre classique</strong> : elle montre inconsciemment votre rapport au temps et à la ponctualité</li>
+<li><strong>Boucles d'oreilles discrètes</strong> : puces, créoles fines ou petites dormeuses</li>
+<li><strong>Un collier fin</strong> : parfait pour rehausser un col en V sans surcharger</li>
+<li><strong>Maximum 3 bijoux</strong> : au-delà, l'effet est contre-productif</li>
+</ul>
+
+<h3>Le sac : votre outil stratégique</h3>
+<p>Choisissez un sac de <strong>taille moyenne à grande</strong>, capable de contenir votre CV, un carnet, un stylo et votre téléphone. Un modèle en cuir ou simili-cuir dans un coloris neutre (noir, camel, marine) est idéal. Prix moyen pour un bon sac professionnel : entre <strong>40€ et 120€</strong>.</p>
+
+<h3>Le maquillage : naturel et lumineux</h3>
+<p>Le maquillage d'entretien se résume en deux mots : <strong>naturel et soigné</strong>. Un teint unifié, une touche de blush, un mascara et un rouge à lèvres nude rosé suffisent. Évitez le smoky eye, le rouge à lèvres foncé et le contouring prononcé.</p>
+
+<h3>La coiffure : propre et maîtrisée</h3>
+<p>Cheveux propres, coiffés et hors du visage. Un <strong>chignon bas décontracté</strong>, une queue de cheval lissée ou des cheveux lâchés bien brushés sont les options les plus professionnelles. L'essentiel : ne pas avoir à toucher vos cheveux constamment pendant l'échange.</p>
+
+<h2>FAQ</h2>
+
+<h3>Peut-on porter un jean pour un entretien d'embauche ?</h3>
+<p>Oui, à condition qu'il s'agisse d'un <strong>jean brut foncé sans déchirures ni délavage</strong> et uniquement pour les secteurs au dress code décontracté (tech, startups, agences créatives). Associez-le impérativement à un blazer structuré et des chaussures habillées pour contrebalancer le côté casual.</p>
+
+<h3>Quelle couleur porter pour un entretien d'embauche femme ?</h3>
+<p>Les couleurs les plus sûres sont le <strong>bleu marine</strong> (inspire confiance et compétence), le <strong>gris anthracite</strong> (sérieux et neutre), le <strong>blanc cassé</strong> (propreté et clarté) et le <strong>noir</strong> (autorité, à doser). Évitez le rouge vif intégral et les couleurs fluo. Une touche de couleur sur un top ou un accessoire est un excellent moyen de se démarquer subtilement.</p>
+
+<h3>Faut-il absolument porter des talons pour un entretien ?</h3>
+<p>Non, les talons ne sont <strong>pas obligatoires</strong>. Des mocassins en cuir, des ballerines pointues ou des derbies féminines sont parfaitement acceptables et même préférables si vous n'êtes pas à l'aise en talons. Mieux vaut marcher avec assurance en chaussures plates qu'hésitante sur des stilettos.</p>
+
+<h3>Comment s'habiller pour un entretien en visio ?</h3>
+<p>Portez un <strong>haut soigné avec un blazer</strong>, comme en présentiel. Les couleurs unies passent mieux à la caméra que les motifs (qui créent un effet moiré). Évitez le blanc pur (éblouissant à l'écran) et privilégiez le bleu marine ou le pastel. Bonus : habillez-vous entièrement — pantalon compris — pour rester dans un état d'esprit professionnel.</p>
+
+<h3>Combien dépenser pour une tenue d'entretien d'embauche ?</h3>
+<p>Un look d'entretien complet et qualitatif coûte en moyenne entre <strong>150€ et 350€</strong> (blazer 60-150€, pantalon 40-80€, top 25-50€, chaussures 50-120€). C'est un investissement rentable car ces pièces constitueront la base de votre garde-robe professionnelle pour les années à venir.</p>
+
+<h2>Conclusion</h2>
+
+<p>Choisir sa <strong>tenue entretien embauche femme</strong> n'a rien d'un casse-tête quand on connaît les bonnes règles : adaptez votre look au secteur visé, misez sur des pièces intemporelles de qualité, soignez les détails et — surtout — sentez-vous bien dans vos vêtements. Votre confiance est votre meilleur atout, et une tenue bien choisie la renforce considérablement. Rappelez-vous : un blazer structuré, un bas sobre, des chaussures propres et un maquillage naturel constituent le quatuor gagnant pour <strong>faire excellente impression dès la première seconde</strong>. Et si vous souhaitez construire une garde-robe professionnelle complète et polyvalente, découvrez notre sélection des <a href="/les-10-basiques-mode-que-toute-femme-devrait-avoir-dans-son-dressing">10 basiques mode indispensables</a> pour un dressing idéal.</p>`
   }
 ];
 
